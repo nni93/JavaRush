@@ -1,7 +1,7 @@
 package com.javarush.test.level04.lesson06.task03;
 
-/* Сортировка трех чисел
-Ввести с клавиатуры три числа, и вывести их в порядке убывания.
+/* РЎРѕСЂС‚РёСЂРѕРІРєР° С‚СЂРµС… С‡РёСЃРµР»
+Р’РІРµСЃС‚Рё СЃ РєР»Р°РІРёР°С‚СѓСЂС‹ С‚СЂРё С‡РёСЃР»Р°, Рё РІС‹РІРµСЃС‚Рё РёС… РІ РїРѕСЂСЏРґРєРµ СѓР±С‹РІР°РЅРёСЏ.
 
 @author Nikolaieva Natalia
 */
@@ -36,7 +36,7 @@ public class Solution
           System.out.print(c + " " + b + " " + a);
           }
          } catch (IOException e){
-              System.out.println("ошибка ввода " + e);        
+              System.out.println("РѕС€РёР±РєР° РІРІРѕРґР° " + e);        
     }
     }
 }
