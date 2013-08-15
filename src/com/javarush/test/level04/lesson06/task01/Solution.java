@@ -1,7 +1,7 @@
 package com.javarush.test.level04.lesson06.task01;
 
-/* Минимум двух чисел
-Ввести с клавиатуры два числа, и вывести на экран минимальное из них.
+/* РњРёРЅРёРјСѓРј РґРІСѓС… С‡РёСЃРµР»
+Р’РІРµСЃС‚Рё СЃ РєР»Р°РІРёР°С‚СѓСЂС‹ РґРІР° С‡РёСЃР»Р°, Рё РІС‹РІРµСЃС‚Рё РЅР° СЌРєСЂР°РЅ РјРёРЅРёРјР°Р»СЊРЅРѕРµ РёР· РЅРёС….
 
 @author Nikolaieva Natalia
 */
@@ -25,7 +25,7 @@ public class Solution
           else 
           System.out.println(b);
           } catch (IOException e){
-              System.out.println("ошибка ввода " + e);        
+              System.out.println("РѕС€РёР±РєР° РІРІРѕРґР° " + e);   
     }
     }
 }
