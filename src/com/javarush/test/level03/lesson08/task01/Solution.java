@@ -1,9 +1,9 @@
 package com.javarush.test.level03.lesson08.task01;
 
-/* Как захватить мир
-Ввести с клавиатуры число и имя, вывести на экран строку:
-«имя» захватит мир через «число» лет. Му-ха-ха!
-Пример: Вася захватит мир через 8 лет. Му-ха-ха!
+/* РљР°Рє Р·Р°С…РІР°С‚РёС‚СЊ РјРёСЂ
+Р’РІРµСЃС‚Рё СЃ РєР»Р°РІРёР°С‚СѓСЂС‹ С‡РёСЃР»Рѕ Рё РёРјСЏ, РІС‹РІРµСЃС‚Рё РЅР° СЌРєСЂР°РЅ СЃС‚СЂРѕРєСѓ:
+В«РёРјСЏВ» Р·Р°С…РІР°С‚РёС‚ РјРёСЂ С‡РµСЂРµР· В«С‡РёСЃР»РѕВ» Р»РµС‚. РњСѓ-С…Р°-С…Р°!
+РџСЂРёРјРµСЂ: Р’Р°СЃСЏ Р·Р°С…РІР°С‚РёС‚ РјРёСЂ С‡РµСЂРµР· 8 Р»РµС‚. РњСѓ-С…Р°-С…Р°!
 
 @author Nikolaieva Natalia
 */
@@ -16,8 +16,8 @@ public class Solution
 {
     public static void main(String[] args) throws Exception
     {
-    String zahvat = "захватит мир через";
-    String muhaha = "лет. Му-ха-ха!";
+    String zahvat = "Р·Р°С…РІР°С‚РёС‚ РјРёСЂ С‡РµСЂРµР·";
+    String muhaha = "Р»РµС‚. РњСѓ-С…Р°-С…Р°!";
     Integer time;
           InputStreamReader ISR = new InputStreamReader(System.in);
           BufferedReader BR = new BufferedReader(ISR);
@@ -36,7 +36,7 @@ public class Solution
           BR.close();
           ISR.close();
           } catch (IOException e){
-            System.out.println("ошибка ввода " + e);    
+            System.out.println("РѕС€РёР±РєР° РІРІРѕРґР° " + e);    
          }    
      }
 }
