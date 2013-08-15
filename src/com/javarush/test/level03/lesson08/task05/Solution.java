@@ -1,9 +1,9 @@
 package com.javarush.test.level03.lesson08.task05;
 
-/* Чистая любовь
-Ввести с клавиатуры три имени, вывести на экран надпись:
-name1 + name2 + name3 = Чистая любовь, да-да!
-Пример: Вася + Ева + Анжелика = Чистая любовь, да-да!
+/* Р§РёСЃС‚Р°СЏ Р»СЋР±РѕРІСЊ
+Р’РІРµСЃС‚Рё СЃ РєР»Р°РІРёР°С‚СѓСЂС‹ С‚СЂРё РёРјРµРЅРё, РІС‹РІРµСЃС‚Рё РЅР° СЌРєСЂР°РЅ РЅР°РґРїРёСЃСЊ:
+name1 + name2 + name3 = Р§РёСЃС‚Р°СЏ Р»СЋР±РѕРІСЊ, РґР°-РґР°!
+РџСЂРёРјРµСЂ: Р’Р°СЃСЏ + Р•РІР° + РђРЅР¶РµР»РёРєР° = Р§РёСЃС‚Р°СЏ Р»СЋР±РѕРІСЊ, РґР°-РґР°!
 
 @author Nikolaieva Natalia
 */
@@ -24,11 +24,11 @@ public class Solution
           name1 = BR.readLine(); 
           name2 = BR.readLine();
           name3 = BR.readLine();
-          System.out.print(name1 + " + " + name2 + " + " + name3 + " = Чистая любовь, да-да!");
+          System.out.print(name1 + " + " + name2 + " + " + name3 + " = Р§РёСЃС‚Р°СЏ Р»СЋР±РѕРІСЊ, РґР°-РґР°!");
           BR.close();
           ISR.close();
           } catch (IOException e){
-              System.out.println("ошибка ввода " + e);        
+              System.out.println("РѕС€РёР±РєР° РІРІРѕРґР° " + e);        
     }
     }
 }
