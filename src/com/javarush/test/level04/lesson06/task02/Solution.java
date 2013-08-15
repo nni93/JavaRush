@@ -1,7 +1,7 @@
 package com.javarush.test.level04.lesson06.task02;
 
-/* Максимум четырех чисел
-Ввести с клавиатуры четыре числа, и вывести максимальное из них.
+/* РњР°РєСЃРёРјСѓРј С‡РµС‚С‹СЂРµС… С‡РёСЃРµР»
+Р’РІРµСЃС‚Рё СЃ РєР»Р°РІРёР°С‚СѓСЂС‹ С‡РµС‚С‹СЂРµ С‡РёСЃР»Р°, Рё РІС‹РІРµСЃС‚Рё РјР°РєСЃРёРјР°Р»СЊРЅРѕРµ РёР· РЅРёС….
 
 @author Nikolaieva Natalia
 */
@@ -31,7 +31,7 @@ public class Solution
           } else
           System.out.println(d);
           } catch (IOException e){
-              System.out.println("ошибка ввода " + e);        
+              System.out.println("РѕС€РёР±РєР° РІРІРѕРґР° " + e);        
     }
     }
 }
