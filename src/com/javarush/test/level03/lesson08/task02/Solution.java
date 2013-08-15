@@ -1,9 +1,9 @@
 package com.javarush.test.level03.lesson08.task02;
 
-/* Зарплата через 5 лет
-Ввести с клавиатуры Имя и два числа, вывести надпись:
-name1 получает «число1» денег через «число2» лет.
-Пример: Коля получает 3000 через 5 лет.
+/* Р—Р°СЂРїР»Р°С‚Р° С‡РµСЂРµР· 5 Р»РµС‚
+Р’РІРµСЃС‚Рё СЃ РєР»Р°РІРёР°С‚СѓСЂС‹ РРјСЏ Рё РґРІР° С‡РёСЃР»Р°, РІС‹РІРµСЃС‚Рё РЅР°РґРїРёСЃСЊ:
+name1 РїРѕР»СѓС‡Р°РµС‚ В«С‡РёСЃР»Рѕ1В» РґРµРЅРµРі С‡РµСЂРµР· В«С‡РёСЃР»Рѕ2В» Р»РµС‚.
+РџСЂРёРјРµСЂ: РљРѕР»СЏ РїРѕР»СѓС‡Р°РµС‚ 3000 С‡РµСЂРµР· 5 Р»РµС‚.
 
 @author Nikolaieva Natalia
 */
@@ -25,21 +25,21 @@ public class Solution
           name = BR.readLine(); 
           System.out.print(name);
           
-          System.out.print(" получает ");
+          System.out.print(" РїРѕР»СѓС‡Р°РµС‚ ");
           money = Integer.valueOf(BR.readLine());
           System.out.print(money);
           
-          System.out.print(" через ");
+          System.out.print(" С‡РµСЂРµР· ");
           time = Integer.valueOf(BR.readLine());
           System.out.print(time);
           
-          System.out.print(" лет.");
+          System.out.print(" Р»РµС‚.");
           
           BR.close();
           ISR.close();
           
       } catch (IOException e){
-              System.out.println("ошибка ввода " + e);        
+              System.out.println("РѕС€РёР±РєР° РІРІРѕРґР° " + e);        
     }
  }
 }
