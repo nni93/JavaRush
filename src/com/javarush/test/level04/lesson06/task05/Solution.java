@@ -1,7 +1,7 @@
 package com.javarush.test.level04.lesson06.task05;
 
 /* 18+
-Ввести с клавиатуры имя и возраст. Если возраст меньше 18 вывести надпись «Подрасти еще».
+Р’РІРµСЃС‚Рё СЃ РєР»Р°РІРёР°С‚СѓСЂС‹ РёРјСЏ Рё РІРѕР·СЂР°СЃС‚. Р•СЃР»Рё РІРѕР·СЂР°СЃС‚ РјРµРЅСЊС€Рµ 18 РІС‹РІРµСЃС‚Рё РЅР°РґРїРёСЃСЊ В«РџРѕРґСЂР°СЃС‚Рё РµС‰РµВ».
 
 @author Nikolaieva Natalia
 */
@@ -21,7 +21,7 @@ public class Solution
         name = BR.readLine();
         age = Integer.valueOf(BR.readLine());
         if (age < 18) {
-        System.out.println("Подрасти еще");
+        System.out.println("РџРѕРґСЂР°СЃС‚Рё РµС‰Рµ");
         } else {}
     }
 }
