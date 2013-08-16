@@ -1,7 +1,7 @@
 package com.javarush.test.level05.lesson05.task01;
 
-/* Создать класс Cat
-Создать класс Cat. У кота должно быть имя (name, String), возраст (age, int), вес (weight, int), сила (strength, int).
+/* РЎРѕР·РґР°С‚СЊ РєР»Р°СЃСЃ Cat
+РЎРѕР·РґР°С‚СЊ РєР»Р°СЃСЃ Cat. РЈ РєРѕС‚Р° РґРѕР»Р¶РЅРѕ Р±С‹С‚СЊ РёРјСЏ (name, String), РІРѕР·СЂР°СЃС‚ (age, int), РІРµСЃ (weight, int), СЃРёР»Р° (strength, int).
 
 @author Nikolaieva Natalia
 */
@@ -22,5 +22,3 @@ public static void main(String[] args){
     cat.setCatParameters("Vaska", 2, 3, 4);
 }
 }
-
-
