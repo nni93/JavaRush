@@ -1,7 +1,7 @@
 package com.javarush.test.level06.lesson05.task01;
 
-/* Метод finalize класса Cat
-В классе Cat создать метод protected void finalize() throws Throwable
+/* РњРµС‚РѕРґ finalize РєР»Р°СЃСЃР° Cat
+Р’ РєР»Р°СЃСЃРµ Cat СЃРѕР·РґР°С‚СЊ РјРµС‚РѕРґ protected void finalize() throws Throwable
 
 @author Nikolaieva Natalia
 */
