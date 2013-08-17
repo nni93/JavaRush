@@ -1,7 +1,7 @@
 package com.javarush.test.level05.lesson09.task04;
 
-/* Создать класс Circle
-Создать класс (Circle) круг, с тремя конструкторами:
+/* РЎРѕР·РґР°С‚СЊ РєР»Р°СЃСЃ Circle
+РЎРѕР·РґР°С‚СЊ РєР»Р°СЃСЃ (Circle) РєСЂСѓРі, СЃ С‚СЂРµРјСЏ РєРѕРЅСЃС‚СЂСѓРєС‚РѕСЂР°РјРё:
 - centerX, centerY, radius
 - centerX, centerY, radius, width
 - centerX, centerY, radius  width, color
