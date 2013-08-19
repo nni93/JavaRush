@@ -2,8 +2,8 @@ package com.javarush.test.level06.lesson11.home07;
 
 import java.util.ArrayList;
 
-/* Три статические переменных name
-Создай 3 public статических переменных: String Solution.name, String Cat.name, String Dog.name
+/* РўСЂРё СЃС‚Р°С‚РёС‡РµСЃРєРёРµ РїРµСЂРµРјРµРЅРЅС‹С… name
+РЎРѕР·РґР°Р№ 3 public СЃС‚Р°С‚РёС‡РµСЃРєРёС… РїРµСЂРµРјРµРЅРЅС‹С…: String Solution.name, String Cat.name, String Dog.name
 
 @author Nikolaieva Natalia
 */
