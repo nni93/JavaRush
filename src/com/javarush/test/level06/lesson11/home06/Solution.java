@@ -1,7 +1,7 @@
 package com.javarush.test.level06.lesson11.home06;
 
 /* KissMyShinyMetalAss
-Создай класс с именем KissMyShinyMetalAss. Создай объект этого класса, выведи его на экран.
+РЎРѕР·РґР°Р№ РєР»Р°СЃСЃ СЃ РёРјРµРЅРµРј KissMyShinyMetalAss. РЎРѕР·РґР°Р№ РѕР±СЉРµРєС‚ СЌС‚РѕРіРѕ РєР»Р°СЃСЃР°, РІС‹РІРµРґРё РµРіРѕ РЅР° СЌРєСЂР°РЅ.
 
 @author Nikolaieva Natalia
 */
