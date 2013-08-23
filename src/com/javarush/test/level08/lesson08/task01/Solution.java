@@ -2,8 +2,8 @@ package com.javarush.test.level08.lesson08.task01;
 
 import java.util.HashSet;
 
-/* 20 слов на букву «Л»
-Создать множество строк (Set<String>), занести в него 20 слов на букву «Л».
+/* 20 СЃР»РѕРІ РЅР° Р±СѓРєРІСѓ В«Р›В»
+РЎРѕР·РґР°С‚СЊ РјРЅРѕР¶РµСЃС‚РІРѕ СЃС‚СЂРѕРє (Set<String>), Р·Р°РЅРµСЃС‚Рё РІ РЅРµРіРѕ 20 СЃР»РѕРІ РЅР° Р±СѓРєРІСѓ В«Р›В».
 
 @author Nikolaieva Natalia
 */
@@ -15,7 +15,7 @@ public class Solution
         HashSet<String> set = new HashSet<String>();
         for (int i = 0; i < 20; i++) {
             String s = Integer.toString(i);
-            set.add("Л" + i);
+            set.add("Р›" + i);
         }
         return set;
     }
