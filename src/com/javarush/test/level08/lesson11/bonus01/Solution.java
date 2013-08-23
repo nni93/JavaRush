@@ -5,8 +5,8 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.*;
 
-/* Номер месяца
-Программа вводит с клавиатуры имя месяца и выводит его номер на экран в виде: «May is 5 month».
+/* РќРѕРјРµСЂ РјРµСЃСЏС†Р°
+РџСЂРѕРіСЂР°РјРјР° РІРІРѕРґРёС‚ СЃ РєР»Р°РІРёР°С‚СѓСЂС‹ РёРјСЏ РјРµСЃСЏС†Р° Рё РІС‹РІРѕРґРёС‚ РµРіРѕ РЅРѕРјРµСЂ РЅР° СЌРєСЂР°РЅ РІ РІРёРґРµ: В«May is 5 monthВ».
 
 @author Nikolaieva Natalia
 */
