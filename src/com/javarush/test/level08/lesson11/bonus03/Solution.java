@@ -4,8 +4,8 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-/* Çàäà÷à ïî àëãîðèòìàì
-Çàäà÷à: Ââåäè ñ êëàâèàòóðû 20 ñëîâ è âûâåäè èõ â àëôàâèòíîì ïîðÿäêå.
+/* Ð—Ð°Ð´Ð°Ñ‡Ð° Ð¿Ð¾ Ð°Ð»Ð³Ð¾Ñ€Ð¸Ñ‚Ð¼Ð°Ð¼
+Ð—Ð°Ð´Ð°Ñ‡Ð°: Ð’Ð²ÐµÐ´Ð¸ Ñ ÐºÐ»Ð°Ð²Ð¸Ð°Ñ‚ÑƒÑ€Ñ‹ 20 ÑÐ»Ð¾Ð² Ð¸ Ð²Ñ‹Ð²ÐµÐ´Ð¸ Ð¸Ñ… Ð² Ð°Ð»Ñ„Ð°Ð²Ð¸Ñ‚Ð½Ð¾Ð¼ Ð¿Ð¾Ñ€ÑÐ´ÐºÐµ.
 
 @author Nikolaieva Natalia
 */
@@ -34,7 +34,7 @@ public class Solution
         Arrays.sort(array);
     }
 
-    //Ìåòîä äëÿ ñðàâíåíèÿ ñòðîê: 'à' áîëüøå ÷åì 'b'
+    //ÐœÐµÑ‚Ð¾Ð´ Ð´Ð»Ñ ÑÑ€Ð°Ð²Ð½ÐµÐ½Ð¸Ñ ÑÑ‚Ñ€Ð¾Ðº: 'Ð°' Ð±Ð¾Ð»ÑŒÑˆÐµ Ñ‡ÐµÐ¼ 'b'
     public static boolean isGreaterThen(String a, String b)
     {
         return a.compareTo(b) > 0;
