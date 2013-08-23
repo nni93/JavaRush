@@ -1,9 +1,9 @@
 package com.javarush.test.level08.lesson11.home06;
 
-/* Вся семья в сборе
-1. Создай класс Human с полями имя (String), пол (boolean), возраст (int), дети (ArrayList<Human>).
-2. Создай объекты и заполни их так, чтобы получилось: два дедушки, две бабушки, отец, мать, трое детей.
-3. Вывести все объекты Human на экран.
+/* Р’СЃСЏ СЃРµРјСЊСЏ РІ СЃР±РѕСЂРµ
+1. РЎРѕР·РґР°Р№ РєР»Р°СЃСЃ Human СЃ РїРѕР»СЏРјРё РёРјСЏ (String), РїРѕР» (boolean), РІРѕР·СЂР°СЃС‚ (int), РґРµС‚Рё (ArrayList<Human>).
+2. РЎРѕР·РґР°Р№ РѕР±СЉРµРєС‚С‹ Рё Р·Р°РїРѕР»РЅРё РёС… С‚Р°Рє, С‡С‚РѕР±С‹ РїРѕР»СѓС‡РёР»РѕСЃСЊ: РґРІР° РґРµРґСѓС€РєРё, РґРІРµ Р±Р°Р±СѓС€РєРё, РѕС‚РµС†, РјР°С‚СЊ, С‚СЂРѕРµ РґРµС‚РµР№.
+3. Р’С‹РІРµСЃС‚Рё РІСЃРµ РѕР±СЉРµРєС‚С‹ Human РЅР° СЌРєСЂР°РЅ.
 
 @author Nikolaieva Natalia
 */
@@ -63,14 +63,14 @@ public class Solution
         public String toString()
         {
             String text = "";
-            text += "Имя: " + this.name;
-            text += ", пол: " + (this.sex ? "мужской" : "женский");
-            text += ", возраст: " + this.age;
+            text += "РРјСЏ: " + this.name;
+            text += ", РїРѕР»: " + (this.sex ? "РјСѓР¶СЃРєРѕР№" : "Р¶РµРЅСЃРєРёР№");
+            text += ", РІРѕР·СЂР°СЃС‚: " + this.age;
             if (children != null) {
             int childCount = this.children.size();
             if (childCount > 0)
             {
-                text += ", дети: "+this.children.get(0).name;
+                text += ", РґРµС‚Рё: "+this.children.get(0).name;
 
                 for (int i = 1; i < childCount; i++)
                 {
@@ -82,5 +82,4 @@ public class Solution
             return text;
         }
     }
-
 }
