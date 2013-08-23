@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-/* Провести 10 тысяч вставок, удалений
-Для arrayList и linkedList провести 10 тысяч вставок, удалений, а также вызовов get и set.
+/* РџСЂРѕРІРµСЃС‚Рё 10 С‚С‹СЃСЏС‡ РІСЃС‚Р°РІРѕРє, СѓРґР°Р»РµРЅРёР№
+Р”Р»СЏ arrayList Рё linkedList РїСЂРѕРІРµСЃС‚Рё 10 С‚С‹СЃСЏС‡ РІСЃС‚Р°РІРѕРє, СѓРґР°Р»РµРЅРёР№, Р° С‚Р°РєР¶Рµ РІС‹Р·РѕРІРѕРІ get Рё set.
 
 @author Nikolaieva Natalia
 */
