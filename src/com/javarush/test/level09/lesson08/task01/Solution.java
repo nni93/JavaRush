@@ -3,12 +3,12 @@ package com.javarush.test.level09.lesson08.task01;
 import java.io.FileNotFoundException;
 import java.net.URISyntaxException;
 
-/* Исключения
-Есть метод, который выбрасывает два исключения унаследованные от Exception и два унаследованных от RuntimeException:
+/* РСЃРєР»СЋС‡РµРЅРёСЏ
+Р•СЃС‚СЊ РјРµС‚РѕРґ, РєРѕС‚РѕСЂС‹Р№ РІС‹Р±СЂР°СЃС‹РІР°РµС‚ РґРІР° РёСЃРєР»СЋС‡РµРЅРёСЏ СѓРЅР°СЃР»РµРґРѕРІР°РЅРЅС‹Рµ РѕС‚ Exception Рё РґРІР° СѓРЅР°СЃР»РµРґРѕРІР°РЅРЅС‹С… РѕС‚ RuntimeException:
 NullPointerException, ArithmeticException, FileNotFoundException, URISyntaxException.
 
-Нужно перехватить NullPointerException и FileNotFoundException, но не перехватывать
-ArithmeticException и URISyntaxException. Как это сделать?
+РќСѓР¶РЅРѕ РїРµСЂРµС…РІР°С‚РёС‚СЊ NullPointerException Рё FileNotFoundException, РЅРѕ РЅРµ РїРµСЂРµС…РІР°С‚С‹РІР°С‚СЊ
+ArithmeticException Рё URISyntaxException. РљР°Рє СЌС‚Рѕ СЃРґРµР»Р°С‚СЊ?
 
 @author Nikolaieva Natalia
 */
