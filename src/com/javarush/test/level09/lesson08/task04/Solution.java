@@ -3,10 +3,10 @@ package com.javarush.test.level09.lesson08.task04;
 import java.io.IOException;
 import java.rmi.RemoteException;
 
-/* Перехват checked исключений
-В методе processExceptions обработайте все checked исключения.
-Нужно вывести на экран каждое возникшее checked исключение.
-Можно использовать только один блок try..
+/* РџРµСЂРµС…РІР°С‚ checked РёСЃРєР»СЋС‡РµРЅРёР№
+Р’ РјРµС‚РѕРґРµ processExceptions РѕР±СЂР°Р±РѕС‚Р°Р№С‚Рµ РІСЃРµ checked РёСЃРєР»СЋС‡РµРЅРёСЏ.
+РќСѓР¶РЅРѕ РІС‹РІРµСЃС‚Рё РЅР° СЌРєСЂР°РЅ РєР°Р¶РґРѕРµ РІРѕР·РЅРёРєС€РµРµ checked РёСЃРєР»СЋС‡РµРЅРёРµ.
+РњРѕР¶РЅРѕ РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ С‚РѕР»СЊРєРѕ РѕРґРёРЅ Р±Р»РѕРє try..
 
 @author Nikolaieva Natalia
 */
