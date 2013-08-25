@@ -1,14 +1,14 @@
 package com.javarush.test.level09.lesson08.task02;
 
-/* Перехватывание исключений
-1. Есть три исключения последовательно унаследованные от Exception:
+/* РџРµСЂРµС…РІР°С‚С‹РІР°РЅРёРµ РёСЃРєР»СЋС‡РµРЅРёР№
+1. Р•СЃС‚СЊ С‚СЂРё РёСЃРєР»СЋС‡РµРЅРёСЏ РїРѕСЃР»РµРґРѕРІР°С‚РµР»СЊРЅРѕ СѓРЅР°СЃР»РµРґРѕРІР°РЅРЅС‹Рµ РѕС‚ Exception:
 2. class Exception1 extends  Exception
 3. class Exception2 extends  Exception1
 4. class Exception3 extends  Exception2
-5. Есть метод, который описан так:
+5. Р•СЃС‚СЊ РјРµС‚РѕРґ, РєРѕС‚РѕСЂС‹Р№ РѕРїРёСЃР°РЅ С‚Р°Рє:
 5.1. public static void method1() throws Exception1, Exception2, Exception3
 
-6. Напиши catch, который перехватит все три Exception1, Exception2 и Exception3
+6. РќР°РїРёС€Рё catch, РєРѕС‚РѕСЂС‹Р№ РїРµСЂРµС…РІР°С‚РёС‚ РІСЃРµ С‚СЂРё Exception1, Exception2 Рё Exception3
 
 @author Nikolaieva Natalia
 */
