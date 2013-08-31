@@ -1,8 +1,8 @@
 package com.javarush.test.level11.lesson11.home02;
 
-/* AppleIPhone и SamsungGalaxyS2
-Написать два класса AppleIPhone и SamsungGalaxyS2.
-Унаследовать SamsungGalaxyS2 от AppleIPhone.
+/* AppleIPhone Рё SamsungGalaxyS2
+РќР°РїРёСЃР°С‚СЊ РґРІР° РєР»Р°СЃСЃР° AppleIPhone Рё SamsungGalaxyS2.
+РЈРЅР°СЃР»РµРґРѕРІР°С‚СЊ SamsungGalaxyS2 РѕС‚ AppleIPhone.
 
 @author Nikolaieva Natalia
 */
