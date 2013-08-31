@@ -1,8 +1,8 @@
 package com.javarush.test.level11.lesson11.home01;
 
-/* Адам и Ева
-Написать два класса Adam(Адам) и Eve(Ева).
-Унаследовать Еву от Адама.
+/* РђРґР°Рј Рё Р•РІР°
+РќР°РїРёСЃР°С‚СЊ РґРІР° РєР»Р°СЃСЃР° Adam(РђРґР°Рј) Рё Eve(Р•РІР°).
+РЈРЅР°СЃР»РµРґРѕРІР°С‚СЊ Р•РІСѓ РѕС‚ РђРґР°РјР°.
 
 @author Nikolaieva Natalia
 */
@@ -13,13 +13,13 @@ public class Solution
     {
     }
 
-    //Адам
+    //РђРґР°Рј
     public class Adam
     {
 
     }
 
-    //Ева
+    //Р•РІР°
     public class Eve extends Adam
     {
 
