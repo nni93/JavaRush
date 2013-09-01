@@ -1,8 +1,8 @@
 package com.javarush.test.level12.lesson09.task03;
 
-/* Fly, Run, Swim для классов Dog, Fish, Bird, Airplane
-Есть public интерфейсы Fly(летать), Run(бежать/ездить), Swim(плавать).
-Добавь эти интерфейсы классам Dog(собака), Fish(рыба), Bird(птица), Airplane(самолет).
+/* Fly, Run, Swim РґР»СЏ РєР»Р°СЃСЃРѕРІ Dog, Fish, Bird, Airplane
+Р•СЃС‚СЊ public РёРЅС‚РµСЂС„РµР№СЃС‹ Fly(Р»РµС‚Р°С‚СЊ), Run(Р±РµР¶Р°С‚СЊ/РµР·РґРёС‚СЊ), Swim(РїР»Р°РІР°С‚СЊ).
+Р”РѕР±Р°РІСЊ СЌС‚Рё РёРЅС‚РµСЂС„РµР№СЃС‹ РєР»Р°СЃСЃР°Рј Dog(СЃРѕР±Р°РєР°), Fish(СЂС‹Р±Р°), Bird(РїС‚РёС†Р°), Airplane(СЃР°РјРѕР»РµС‚).
 
 @author Nikolaieva Natalia
 */
