@@ -1,7 +1,7 @@
 package com.javarush.test.level12.lesson12.home03;
 
-/* Добавь один метод в класс Cat
-Добавь один метод в класс Cat так, чтобы программа ничего не выводила на экран.
+/* Р”РѕР±Р°РІСЊ РѕРґРёРЅ РјРµС‚РѕРґ РІ РєР»Р°СЃСЃ Cat
+Р”РѕР±Р°РІСЊ РѕРґРёРЅ РјРµС‚РѕРґ РІ РєР»Р°СЃСЃ Cat С‚Р°Рє, С‡С‚РѕР±С‹ РїСЂРѕРіСЂР°РјРјР° РЅРёС‡РµРіРѕ РЅРµ РІС‹РІРѕРґРёР»Р° РЅР° СЌРєСЂР°РЅ.
 
 @author Nikolaieva Natalia
 */
@@ -11,7 +11,7 @@ public class Solution
     public static void main(String[] args)
     {
         Pet pet = new Cat();
-        pet.setName("Я - пушистик");
+        pet.setName("РЇ - РїСѓС€РёСЃС‚РёРє");
 
         System.out.println(pet.getName());
     }
