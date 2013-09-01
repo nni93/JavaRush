@@ -1,8 +1,8 @@
 package com.javarush.test.level12.lesson12.home01;
 
-/* Метод getName в классе Cat
-Переопредели метод getName в классе Cat так, чтобы программа выдавала на экран надпись
-«Я - кот».
+/* РњРµС‚РѕРґ getName РІ РєР»Р°СЃСЃРµ Cat
+РџРµСЂРµРѕРїСЂРµРґРµР»Рё РјРµС‚РѕРґ getName РІ РєР»Р°СЃСЃРµ Cat С‚Р°Рє, С‡С‚РѕР±С‹ РїСЂРѕРіСЂР°РјРјР° РІС‹РґР°РІР°Р»Р° РЅР° СЌРєСЂР°РЅ РЅР°РґРїРёСЃСЊ
+В«РЇ - РєРѕС‚В».
 
 @author Nikolaieva Natalia
 */
@@ -20,7 +20,7 @@ public class Solution
     {
         public String getName()
         {
-            return "Я - пушистик";
+            return "РЇ - РїСѓС€РёСЃС‚РёРє";
         }
     }
 
@@ -29,7 +29,7 @@ public class Solution
         @Override
         public String getName()
         {
-            return "Я - кот";
+            return "РЇ - РєРѕС‚";
         }
     }
 }
