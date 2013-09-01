@@ -1,7 +1,7 @@
 package com.javarush.test.level12.lesson06.task03;
 
-/* Исправь код. Вторая задача
-Исправь код, чтобы программа компилировалась.
+/* РСЃРїСЂР°РІСЊ РєРѕРґ. Р’С‚РѕСЂР°СЏ Р·Р°РґР°С‡Р°
+РСЃРїСЂР°РІСЊ РєРѕРґ, С‡С‚РѕР±С‹ РїСЂРѕРіСЂР°РјРјР° РєРѕРјРїРёР»РёСЂРѕРІР°Р»Р°СЃСЊ.
 
 @author Nikolaieva Natalia
 */
@@ -17,7 +17,7 @@ public class Solution
     {
         public String getName()
         {
-            return "Я - котенок";
+            return "РЇ - РєРѕС‚РµРЅРѕРє";
         }
 
         public abstract Pet getChild();
