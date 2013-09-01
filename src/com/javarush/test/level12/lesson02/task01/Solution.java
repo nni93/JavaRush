@@ -1,8 +1,8 @@
 package com.javarush.test.level12.lesson02.task01;
 
-/* Я не корова, Я - кит.
-Переопределить метод getName в классе Whale(Кит), чтобы программа выдавала:
-Я не корова, Я - кит.
+/* РЇ РЅРµ РєРѕСЂРѕРІР°, РЇ - РєРёС‚.
+РџРµСЂРµРѕРїСЂРµРґРµР»РёС‚СЊ РјРµС‚РѕРґ getName РІ РєР»Р°СЃСЃРµ Whale(РљРёС‚), С‡С‚РѕР±С‹ РїСЂРѕРіСЂР°РјРјР° РІС‹РґР°РІР°Р»Р°:
+РЇ РЅРµ РєРѕСЂРѕРІР°, РЇ - РєРёС‚.
 
 @author Nikolaieva Natalia
 */
@@ -20,7 +20,7 @@ public class Solution
     {
         public String getName()
         {
-            return "Я - корова";
+            return "РЇ - РєРѕСЂРѕРІР°";
         }
     }
 
@@ -28,7 +28,7 @@ public class Solution
     {
         @Override
         public String getName() {
-            return "Я не корова, Я - кит.";
+            return "РЇ РЅРµ РєРѕСЂРѕРІР°, РЇ - РєРёС‚.";
         }
     }
 }
