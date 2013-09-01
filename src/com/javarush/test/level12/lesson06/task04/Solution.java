@@ -1,8 +1,8 @@
 package com.javarush.test.level12.lesson06.task04;
 
-/* Класс Cow от Animal
-Унаследуй класс Cow от Animal.
-Реализуй все недостающие методы в классе Cow.
+/* РљР»Р°СЃСЃ Cow РѕС‚ Animal
+РЈРЅР°СЃР»РµРґСѓР№ РєР»Р°СЃСЃ Cow РѕС‚ Animal.
+Р РµР°Р»РёР·СѓР№ РІСЃРµ РЅРµРґРѕСЃС‚Р°СЋС‰РёРµ РјРµС‚РѕРґС‹ РІ РєР»Р°СЃСЃРµ Cow.
 
 @author Nikolaieva Natalia
 */
