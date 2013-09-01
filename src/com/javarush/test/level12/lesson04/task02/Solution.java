@@ -1,8 +1,8 @@
 package com.javarush.test.level12.lesson04.task02;
 
-/* print(int) и print(Integer)
-Написать два метода: print(int) и print(Integer).
-Написать такой код в методе main, чтобы вызвались они оба.
+/* print(int) Рё print(Integer)
+РќР°РїРёСЃР°С‚СЊ РґРІР° РјРµС‚РѕРґР°: print(int) Рё print(Integer).
+РќР°РїРёСЃР°С‚СЊ С‚Р°РєРѕР№ РєРѕРґ РІ РјРµС‚РѕРґРµ main, С‡С‚РѕР±С‹ РІС‹Р·РІР°Р»РёСЃСЊ РѕРЅРё РѕР±Р°.
 
 @author Nikolaieva Natalia
 */
