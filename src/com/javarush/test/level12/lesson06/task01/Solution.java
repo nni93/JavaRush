@@ -1,7 +1,7 @@
 package com.javarush.test.level12.lesson06.task01;
 
-/* Абстрактный класс Pet
-Сделать класс Pet абстрактным.
+/* РђР±СЃС‚СЂР°РєС‚РЅС‹Р№ РєР»Р°СЃСЃ Pet
+РЎРґРµР»Р°С‚СЊ РєР»Р°СЃСЃ Pet Р°Р±СЃС‚СЂР°РєС‚РЅС‹Рј.
 
 @author Nikolaieva Natalia
 */
@@ -17,7 +17,7 @@ public class Solution
     {
         public String getName()
         {
-            return "Я - котенок";
+            return "РЇ - РєРѕС‚РµРЅРѕРє";
         }
     }
 
