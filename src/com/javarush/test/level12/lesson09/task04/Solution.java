@@ -1,8 +1,8 @@
 package com.javarush.test.level12.lesson09.task04;
 
-/* Fly, Run, Swim для классов Human, Duck, Penguin, Airplane
-Есть public интерфейсы Fly(летать), Run(бежать/ездить), Swim(плавать).
-Добавь эти интерфейсы классам Human(человек), Duck(утка), Penguin(пингвин), Airplane(самолет).
+/* Fly, Run, Swim РґР»СЏ РєР»Р°СЃСЃРѕРІ Human, Duck, Penguin, Airplane
+Р•СЃС‚СЊ public РёРЅС‚РµСЂС„РµР№СЃС‹ Fly(Р»РµС‚Р°С‚СЊ), Run(Р±РµР¶Р°С‚СЊ/РµР·РґРёС‚СЊ), Swim(РїР»Р°РІР°С‚СЊ).
+Р”РѕР±Р°РІСЊ СЌС‚Рё РёРЅС‚РµСЂС„РµР№СЃС‹ РєР»Р°СЃСЃР°Рј Human(С‡РµР»РѕРІРµРє), Duck(СѓС‚РєР°), Penguin(РїРёРЅРіРІРёРЅ), Airplane(СЃР°РјРѕР»РµС‚).
 
 @author Nikolaieva Natalia
 */
