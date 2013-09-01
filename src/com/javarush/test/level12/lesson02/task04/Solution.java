@@ -1,7 +1,7 @@
 package com.javarush.test.level12.lesson02.task04;
 
-/* Или «Кошка», или «Собака», или «Птица», или «Лампа»
-Написать метод, который определяет, объект какого класса ему передали, и выводит на экран одну из надписей: «Кошка», «Собака», «Птица», «Лампа».
+/* РР»Рё В«РљРѕС€РєР°В», РёР»Рё В«РЎРѕР±Р°РєР°В», РёР»Рё В«РџС‚РёС†Р°В», РёР»Рё В«Р›Р°РјРїР°В»
+РќР°РїРёСЃР°С‚СЊ РјРµС‚РѕРґ, РєРѕС‚РѕСЂС‹Р№ РѕРїСЂРµРґРµР»СЏРµС‚, РѕР±СЉРµРєС‚ РєР°РєРѕРіРѕ РєР»Р°СЃСЃР° РµРјСѓ РїРµСЂРµРґР°Р»Рё, Рё РІС‹РІРѕРґРёС‚ РЅР° СЌРєСЂР°РЅ РѕРґРЅСѓ РёР· РЅР°РґРїРёСЃРµР№: В«РљРѕС€РєР°В», В«РЎРѕР±Р°РєР°В», В«РџС‚РёС†Р°В», В«Р›Р°РјРїР°В».
 
 @author Nikolaieva Natalia
 */
@@ -20,13 +20,13 @@ public class Solution
     public static void printObjectType(Object o)
     {
       if (o instanceof Cat) {
-          System.out.println("Кошка");
+          System.out.println("РљРѕС€РєР°");
       } else if (o instanceof Dog) {
-          System.out.println("Собака");
+          System.out.println("РЎРѕР±Р°РєР°");
       } else if (o instanceof Bird) {
-          System.out.println("Птица");
+          System.out.println("РџС‚РёС†Р°");
       } else if (o instanceof Lamp) {
-          System.out.println("Лампа");
+          System.out.println("Р›Р°РјРїР°");
       }
     }
 
