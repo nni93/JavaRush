@@ -1,8 +1,8 @@
 package com.javarush.test.level12.lesson12.home02;
 
-/* Метод setName в классе Cat
-Переопредели метод setName в классе Cat так, чтобы программа выдавала на экран надпись
-«Я - кот».
+/* РњРµС‚РѕРґ setName РІ РєР»Р°СЃСЃРµ Cat
+РџРµСЂРµРѕРїСЂРµРґРµР»Рё РјРµС‚РѕРґ setName РІ РєР»Р°СЃСЃРµ Cat С‚Р°Рє, С‡С‚РѕР±С‹ РїСЂРѕРіСЂР°РјРјР° РІС‹РґР°РІР°Р»Р° РЅР° СЌРєСЂР°РЅ РЅР°РґРїРёСЃСЊ
+В«РЇ - РєРѕС‚В».
 
 @author Nikolaieva Natalia
 */
@@ -12,7 +12,7 @@ public class Solution
     public static void main(String[] args)
     {
         Pet pet = new Cat();
-        pet.setName("Я - пушистик");
+        pet.setName("РЇ - РїСѓС€РёСЃС‚РёРє");
 
         System.out.println(pet.getName());
     }
@@ -42,7 +42,7 @@ public class Solution
         @Override
         public void setName(String name)
         {
-            this.name = "Я - кот";
+            this.name = "РЇ - РєРѕС‚";
         }
     }
 }
