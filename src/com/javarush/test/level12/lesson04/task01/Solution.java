@@ -1,7 +1,7 @@
 package com.javarush.test.level12.lesson04.task01;
 
-/* print(int) и print(String)
-Написать два метода: print(int) и print(String).
+/* print(int) Рё print(String)
+РќР°РїРёСЃР°С‚СЊ РґРІР° РјРµС‚РѕРґР°: print(int) Рё print(String).
 
 @author Nikolaieva Natalia
 */
