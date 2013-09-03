@@ -3,14 +3,14 @@ package com.javarush.test.level13.lesson11.bonus02;
 import java.util.ArrayList;
 import java.util.List;
 
-/* Репка
-Сказка Репка:
-1. Реализовать интерфейс RepkaItem в классе Person.
-2. В классе Person реализовать метод pull(Person person), который выводит фразу типа '<name> за <person>'. Пример:
-Бабка за Дедку
-Дедка за Репку
-3. Исправить логическую ошибку цикла в методе tell класса RepkaStory.
-4. Выполнить метод main и наслаждаться сказкой!
+/* Р РµРїРєР°
+РЎРєР°Р·РєР° Р РµРїРєР°:
+1. Р РµР°Р»РёР·РѕРІР°С‚СЊ РёРЅС‚РµСЂС„РµР№СЃ RepkaItem РІ РєР»Р°СЃСЃРµ Person.
+2. Р’ РєР»Р°СЃСЃРµ Person СЂРµР°Р»РёР·РѕРІР°С‚СЊ РјРµС‚РѕРґ pull(Person person), РєРѕС‚РѕСЂС‹Р№ РІС‹РІРѕРґРёС‚ С„СЂР°Р·Сѓ С‚РёРїР° '<name> Р·Р° <person>'. РџСЂРёРјРµСЂ:
+Р‘Р°Р±РєР° Р·Р° Р”РµРґРєСѓ
+Р”РµРґРєР° Р·Р° Р РµРїРєСѓ
+3. РСЃРїСЂР°РІРёС‚СЊ Р»РѕРіРёС‡РµСЃРєСѓСЋ РѕС€РёР±РєСѓ С†РёРєР»Р° РІ РјРµС‚РѕРґРµ tell РєР»Р°СЃСЃР° RepkaStory.
+4. Р’С‹РїРѕР»РЅРёС‚СЊ РјРµС‚РѕРґ main Рё РЅР°СЃР»Р°Р¶РґР°С‚СЊСЃСЏ СЃРєР°Р·РєРѕР№!
 */
 
 public class Solution
@@ -18,10 +18,10 @@ public class Solution
     public static void main(String[] args)
     {
         List<Person> plot = new ArrayList<Person>();
-        plot.add(new Person("Репка", "Репку"));
-        plot.add(new Person("Дедка", "Дедку"));
-        plot.add(new Person("Бабка", "Бабку"));
-        plot.add(new Person("Внучка", "Внучку"));
+        plot.add(new Person("Р РµРїРєР°", "Р РµРїРєСѓ"));
+        plot.add(new Person("Р”РµРґРєР°", "Р”РµРґРєСѓ"));
+        plot.add(new Person("Р‘Р°Р±РєР°", "Р‘Р°Р±РєСѓ"));
+        plot.add(new Person("Р’РЅСѓС‡РєР°", "Р’РЅСѓС‡РєСѓ"));
         RepkaStory.tell(plot);
     }
 
