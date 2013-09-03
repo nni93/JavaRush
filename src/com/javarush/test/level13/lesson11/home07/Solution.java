@@ -1,9 +1,9 @@
 package com.javarush.test.level13.lesson11.home07;
 
-/* Интерфейс SimpleObject
-1. Создай класс StringObject.
-2. В классе StringObject реализуй интерфейс SimpleObject с параметром типа String.
-3. Программа должна компилироваться.
+/* РРЅС‚РµСЂС„РµР№СЃ SimpleObject
+1. РЎРѕР·РґР°Р№ РєР»Р°СЃСЃ StringObject.
+2. Р’ РєР»Р°СЃСЃРµ StringObject СЂРµР°Р»РёР·СѓР№ РёРЅС‚РµСЂС„РµР№СЃ SimpleObject СЃ РїР°СЂР°РјРµС‚СЂРѕРј С‚РёРїР° String.
+3. РџСЂРѕРіСЂР°РјРјР° РґРѕР»Р¶РЅР° РєРѕРјРїРёР»РёСЂРѕРІР°С‚СЊСЃСЏ.
 
 @author Nikolaieva Natalia
 */
