@@ -1,7 +1,7 @@
 package com.javarush.test.level13.lesson02.task03;
 
-/* Пиво и кола
-Реализуй интерфейс Drink в классах Beer и Cola.
+/* РџРёРІРѕ Рё РєРѕР»Р°
+Р РµР°Р»РёР·СѓР№ РёРЅС‚РµСЂС„РµР№СЃ Drink РІ РєР»Р°СЃСЃР°С… Beer Рё Cola.
 
 @author Nikolaieva Natalia
 */
