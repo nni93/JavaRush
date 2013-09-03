@@ -1,8 +1,8 @@
 package com.javarush.test.level13.lesson02.task04;
 
-/* Selectable и Updatable
-1. Создай класс Screen.
-2. Реализуй в нем интерфейсы Selectable с методом onSelect, Updatable с методом refresh.
+/* Selectable Рё Updatable
+1. РЎРѕР·РґР°Р№ РєР»Р°СЃСЃ Screen.
+2. Р РµР°Р»РёР·СѓР№ РІ РЅРµРј РёРЅС‚РµСЂС„РµР№СЃС‹ Selectable СЃ РјРµС‚РѕРґРѕРј onSelect, Updatable СЃ РјРµС‚РѕРґРѕРј refresh.
 
 @author Nikolaieva Natalia
 */
