@@ -1,9 +1,9 @@
 package com.javarush.test.level13.lesson02.task10;
 
-/* CleverMan и SmartGirl
-1. Добавь интерфейсы Secretary и Boss к классам CleverMan и SmartGirl. По одному на каждый. Подумай, кому какой.
-2. Унаследуй  интерфейсы Secretary и Boss от интерфейсов Person и Workable так,
-чтобы все методы у классов CleverMan и SmartGirl оказались объявленными в каком-то интерфейсе.
+/* CleverMan Рё SmartGirl
+1. Р”РѕР±Р°РІСЊ РёРЅС‚РµСЂС„РµР№СЃС‹ Secretary Рё Boss Рє РєР»Р°СЃСЃР°Рј CleverMan Рё SmartGirl. РџРѕ РѕРґРЅРѕРјСѓ РЅР° РєР°Р¶РґС‹Р№. РџРѕРґСѓРјР°Р№, РєРѕРјСѓ РєР°РєРѕР№.
+2. РЈРЅР°СЃР»РµРґСѓР№  РёРЅС‚РµСЂС„РµР№СЃС‹ Secretary Рё Boss РѕС‚ РёРЅС‚РµСЂС„РµР№СЃРѕРІ Person Рё Workable С‚Р°Рє,
+С‡С‚РѕР±С‹ РІСЃРµ РјРµС‚РѕРґС‹ Сѓ РєР»Р°СЃСЃРѕРІ CleverMan Рё SmartGirl РѕРєР°Р·Р°Р»РёСЃСЊ РѕР±СЉСЏРІР»РµРЅРЅС‹РјРё РІ РєР°РєРѕРј-С‚Рѕ РёРЅС‚РµСЂС„РµР№СЃРµ.
 
 @author Nikolaieva Natalia
 */
