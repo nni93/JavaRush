@@ -1,9 +1,9 @@
 package com.javarush.test.level13.lesson11.home02;
 
-/* Погода
-1. В классе Today реализовать интерфейс Weather.
-2. Подумай, как связан параметр String type с методом getWeatherType().
-3. Интерфейсы Weather и WeatherType уже реализованы.
+/* РџРѕРіРѕРґР°
+1. Р’ РєР»Р°СЃСЃРµ Today СЂРµР°Р»РёР·РѕРІР°С‚СЊ РёРЅС‚РµСЂС„РµР№СЃ Weather.
+2. РџРѕРґСѓРјР°Р№, РєР°Рє СЃРІСЏР·Р°РЅ РїР°СЂР°РјРµС‚СЂ String type СЃ РјРµС‚РѕРґРѕРј getWeatherType().
+3. РРЅС‚РµСЂС„РµР№СЃС‹ Weather Рё WeatherType СѓР¶Рµ СЂРµР°Р»РёР·РѕРІР°РЅС‹.
 
 @author Nikolaieva Natalia
 */
