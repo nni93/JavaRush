@@ -13,7 +13,7 @@ public class Person implements RepkaItem
 
     public void pull(Person person) {
     	
-    	 System.out.println(name + " çà " + person.namePadezh);
+    	 System.out.println(name + " Ð·Ð° " + person.namePadezh);
     }
 
 
