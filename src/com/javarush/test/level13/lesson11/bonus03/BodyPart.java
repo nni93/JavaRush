@@ -2,10 +2,10 @@ package com.javarush.test.level13.lesson11.bonus03;
 
 public final class BodyPart
 {
-    final static BodyPart LEG = new BodyPart("нога");
-    final static BodyPart HEAD = new BodyPart("голова");
-    final static BodyPart ARM = new BodyPart("рука");
-    final static BodyPart CHEST = new BodyPart("грудь");
+    final static BodyPart LEG = new BodyPart("РЅРѕРіР°");
+    final static BodyPart HEAD = new BodyPart("РіРѕР»РѕРІР°");
+    final static BodyPart ARM = new BodyPart("СЂСѓРєР°");
+    final static BodyPart CHEST = new BodyPart("РіСЂСѓРґСЊ");
 
     private String bodyPart;
 
