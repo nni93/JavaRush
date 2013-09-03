@@ -1,7 +1,7 @@
 package com.javarush.test.level13.lesson11.home08;
 
-/* Интерфейс Updatable в классе Screen
-Реализовать интерфейс Updatable в классе Screen.
+/* РРЅС‚РµСЂС„РµР№СЃ Updatable РІ РєР»Р°СЃСЃРµ Screen
+Р РµР°Р»РёР·РѕРІР°С‚СЊ РёРЅС‚РµСЂС„РµР№СЃ Updatable РІ РєР»Р°СЃСЃРµ Screen.
 
 @author Nikolaieva Natalia
 */
