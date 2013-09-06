@@ -3,9 +3,9 @@ package com.javarush.test.level14.lesson08.bonus01;
 import java.util.ArrayList;
 import java.util.List;
 
-/* Нашествие эксепшенов
-Заполни массив exceptions 10 различными эксепшенами.
-Первое исключение уже реализовано в методе initExceptions.
+/* РќР°С€РµСЃС‚РІРёРµ СЌРєСЃРµРїС€РµРЅРѕРІ
+Р—Р°РїРѕР»РЅРё РјР°СЃСЃРёРІ exceptions 10 СЂР°Р·Р»РёС‡РЅС‹РјРё СЌРєСЃРµРїС€РµРЅР°РјРё.
+РџРµСЂРІРѕРµ РёСЃРєР»СЋС‡РµРЅРёРµ СѓР¶Рµ СЂРµР°Р»РёР·РѕРІР°РЅРѕ РІ РјРµС‚РѕРґРµ initExceptions.
 
 @author Nikolaieva Natalia
 */
