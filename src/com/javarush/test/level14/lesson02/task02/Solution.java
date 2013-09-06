@@ -1,7 +1,7 @@
 package com.javarush.test.level14.lesson02.task02;
 
 /* Bingo-2
-Исправь строчку 'Cat o = new Cat();' так, чтобы программа вывела "Bingo!"
+РСЃРїСЂР°РІСЊ СЃС‚СЂРѕС‡РєСѓ 'Cat o = new Cat();' С‚Р°Рє, С‡С‚РѕР±С‹ РїСЂРѕРіСЂР°РјРјР° РІС‹РІРµР»Р° "Bingo!"
 
 @author Nikolaieva Natalia
 */
