@@ -10,6 +10,6 @@ class RussianHen extends Hen {
     @Override
     String getDescription()
     {
-        return super.getDescription() + " Моя страна - " + Country.RUSSIA + ". Я несу " + getCountOfEggsPerMonth() + " яиц в месяц.";
+        return super.getDescription() + " РњРѕСЏ СЃС‚СЂР°РЅР° - " + Country.RUSSIA + ". РЇ РЅРµСЃСѓ " + getCountOfEggsPerMonth() + " СЏРёС† РІ РјРµСЃСЏС†.";
     }
 }
