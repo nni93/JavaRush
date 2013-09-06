@@ -1,9 +1,9 @@
 package com.javarush.test.level14.lesson04.task01;
 
-/* Building и School
-1. Расставь правильно наследование между Building(здание) и School(здание школы).
-2. Подумай, объект какого класса должны возвращать методы getSchool и getBuilding.
-3. Измени null на объект класса Building или School.
+/* Building Рё School
+1. Р Р°СЃСЃС‚Р°РІСЊ РїСЂР°РІРёР»СЊРЅРѕ РЅР°СЃР»РµРґРѕРІР°РЅРёРµ РјРµР¶РґСѓ Building(Р·РґР°РЅРёРµ) Рё School(Р·РґР°РЅРёРµ С€РєРѕР»С‹).
+2. РџРѕРґСѓРјР°Р№, РѕР±СЉРµРєС‚ РєР°РєРѕРіРѕ РєР»Р°СЃСЃР° РґРѕР»Р¶РЅС‹ РІРѕР·РІСЂР°С‰Р°С‚СЊ РјРµС‚РѕРґС‹ getSchool Рё getBuilding.
+3. РР·РјРµРЅРё null РЅР° РѕР±СЉРµРєС‚ РєР»Р°СЃСЃР° Building РёР»Рё School.
 
 @author Nikolaieva Natalia
 */
