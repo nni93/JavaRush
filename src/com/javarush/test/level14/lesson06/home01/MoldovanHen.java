@@ -11,6 +11,6 @@ class MoldovanHen extends Hen {
     @Override
     String getDescription()
     {
-        return super.getDescription() + " Моя страна - " + Country.MOLDOVA + ". Я несу " + getCountOfEggsPerMonth() + " яиц в месяц.";
+        return super.getDescription() + " РњРѕСЏ СЃС‚СЂР°РЅР° - " + Country.MOLDOVA + ". РЇ РЅРµСЃСѓ " + getCountOfEggsPerMonth() + " СЏРёС† РІ РјРµСЃСЏС†.";
     }
 }
