@@ -5,12 +5,12 @@ import java.io.BufferedWriter;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-/* Коты
-1. Считывать строки(параметры) с консоли, пока пользователь не введет пустую строку(Enter).
-2. Каждый параметр соответствует имени кота.
-Для каждого параметра:
-3. Создать объект cat класса Cat, который равен коту из getCatByKey(String параметр).
-4. Вывести на экран cat.toString().
+/* РљРѕС‚С‹
+1. РЎС‡РёС‚С‹РІР°С‚СЊ СЃС‚СЂРѕРєРё(РїР°СЂР°РјРµС‚СЂС‹) СЃ РєРѕРЅСЃРѕР»Рё, РїРѕРєР° РїРѕР»СЊР·РѕРІР°С‚РµР»СЊ РЅРµ РІРІРµРґРµС‚ РїСѓСЃС‚СѓСЋ СЃС‚СЂРѕРєСѓ(Enter).
+2. РљР°Р¶РґС‹Р№ РїР°СЂР°РјРµС‚СЂ СЃРѕРѕС‚РІРµС‚СЃС‚РІСѓРµС‚ РёРјРµРЅРё РєРѕС‚Р°.
+Р”Р»СЏ РєР°Р¶РґРѕРіРѕ РїР°СЂР°РјРµС‚СЂР°:
+3. РЎРѕР·РґР°С‚СЊ РѕР±СЉРµРєС‚ cat РєР»Р°СЃСЃР° Cat, РєРѕС‚РѕСЂС‹Р№ СЂР°РІРµРЅ РєРѕС‚Сѓ РёР· getCatByKey(String РїР°СЂР°РјРµС‚СЂ).
+4. Р’С‹РІРµСЃС‚Рё РЅР° СЌРєСЂР°РЅ cat.toString().
 
 @author Nikolaieva Natalia
 */
@@ -47,13 +47,13 @@ public class Solution
             Cat cat = null;
             if ("vaska".equals(key))
             {
-                cat = new MaleCat("Василий");
+                cat = new MaleCat("Р’Р°СЃРёР»РёР№");
             } else if ("murka".equals(key))
             {
-                cat = new FemaleCat("Мурочка");
+                cat = new FemaleCat("РњСѓСЂРѕС‡РєР°");
             } else if ("kiska".equals(key))
             {
-                cat = new FemaleCat("Кисюлька");
+                cat = new FemaleCat("РљРёСЃСЋР»СЊРєР°");
             } else
             {
                 cat = new Cat(key);
@@ -79,7 +79,7 @@ public class Solution
 
         public String toString()
         {
-            return "Я уличный кот " + getName();
+            return "РЇ СѓР»РёС‡РЅС‹Р№ РєРѕС‚ " + getName();
         }
     }
 
@@ -92,7 +92,7 @@ public class Solution
 
         public String toString()
         {
-            return "Я - солидный кошак по имени " + getName();
+            return "РЇ - СЃРѕР»РёРґРЅС‹Р№ РєРѕС€Р°Рє РїРѕ РёРјРµРЅРё " + getName();
         }
     }
 
@@ -105,7 +105,7 @@ public class Solution
 
         public String toString()
         {
-            return "Я - милая кошечка по имени " + getName();
+            return "РЇ - РјРёР»Р°СЏ РєРѕС€РµС‡РєР° РїРѕ РёРјРµРЅРё " + getName();
         }
     }
 }
