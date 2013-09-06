@@ -1,11 +1,11 @@
 package com.javarush.test.level14.lesson04.task03;
 
 /* Food
-1. Реализовать интерфейс Selectable в классе Food.
-2. Метод onSelect() должен писать в консоль "food is selected".
-3. Подумай, какие методы можно вызвать для переменной food и какие для selectable.
-4. В методе foodMethods вызови методы onSelect, eat, если это возможно.
-5. В методе selectableMethods вызови методы onSelect, eat, если это возможно.
+1. Р РµР°Р»РёР·РѕРІР°С‚СЊ РёРЅС‚РµСЂС„РµР№СЃ Selectable РІ РєР»Р°СЃСЃРµ Food.
+2. РњРµС‚РѕРґ onSelect() РґРѕР»Р¶РµРЅ РїРёСЃР°С‚СЊ РІ РєРѕРЅСЃРѕР»СЊ "food is selected".
+3. РџРѕРґСѓРјР°Р№, РєР°РєРёРµ РјРµС‚РѕРґС‹ РјРѕР¶РЅРѕ РІС‹Р·РІР°С‚СЊ РґР»СЏ РїРµСЂРµРјРµРЅРЅРѕР№ food Рё РєР°РєРёРµ РґР»СЏ selectable.
+4. Р’ РјРµС‚РѕРґРµ foodMethods РІС‹Р·РѕРІРё РјРµС‚РѕРґС‹ onSelect, eat, РµСЃР»Рё СЌС‚Рѕ РІРѕР·РјРѕР¶РЅРѕ.
+5. Р’ РјРµС‚РѕРґРµ selectableMethods РІС‹Р·РѕРІРё РјРµС‚РѕРґС‹ onSelect, eat, РµСЃР»Рё СЌС‚Рѕ РІРѕР·РјРѕР¶РЅРѕ.
 
 @author Nikolaieva Natalia
 */
