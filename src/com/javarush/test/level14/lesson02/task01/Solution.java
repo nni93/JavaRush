@@ -1,7 +1,7 @@
 package com.javarush.test.level14.lesson02.task01;
 
 /* Bingo
-Исправь строчку 'Object o = new Pet();' в методе main так, чтобы программа вывела "Bingo!"
+РСЃРїСЂР°РІСЊ СЃС‚СЂРѕС‡РєСѓ 'Object o = new Pet();' РІ РјРµС‚РѕРґРµ main С‚Р°Рє, С‡С‚РѕР±С‹ РїСЂРѕРіСЂР°РјРјР° РІС‹РІРµР»Р° "Bingo!"
 
 @author Nikolaieva Natalia
 */
